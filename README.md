@@ -52,7 +52,7 @@ For feedback or questions about any of the content, you can:
 
 ## 📄 License
 
-All content in this repository is available under the [MIT License](LICENSE). Feel free to use and adapt the content as needed!
+All content in this repository is available under the [GPL-3.0 License](LICENSE). Feel free to use and adapt the content as needed!
 
 ---
 
